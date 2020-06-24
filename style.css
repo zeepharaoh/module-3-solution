@@ -1,0 +1,80 @@
+body {
+    background-color: #fff;
+  }
+  .bg-light {
+      background-color: gray;
+  }
+  h1 {
+    margin: 40px;
+    margin-top: 100px;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 175%;
+    color: black;
+  }
+
+  .container {
+    width: 100%;
+    margin: auto;
+  }
+
+.row {
+margin: auto;
+width: 100%;
+}
+  .col-sm
+  {
+      margin: auto;
+  }
+
+  .content1 {
+    float: right;
+    width: 100px;
+    padding: 5px;
+    margin: 0px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    background-color: rgba(255, 0, 149, 0.712);
+    
+  }
+  .content2 {
+    float: right;
+    color: black;
+    width: 100px;
+    padding: 5px;
+    margin: 0px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    background-color: rgb(128, 17, 17);
+    
+  }
+  .content3 {
+    color: black;
+    float: right;
+    width: 100px;
+    padding: 5px;
+    margin: 0px;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    background-color: rgba(255, 255, 0, 0.541);
+    
+  }
+  .content {
+    padding: 5px;
+    border: none;
+    background-color: gray;
+    font-family: Helvetica;
+    color: black;
+    margin: 0px;
+    height: 200px;
+    overflow: auto;
+  clear: right;
+  }
+  
